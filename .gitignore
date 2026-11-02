@@ -14,9 +14,7 @@ node_modules
 database.sqlite
 
 .env
-.env.*
-
-
+shopify.app.toml
 
 
 
